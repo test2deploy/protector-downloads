@@ -7,9 +7,13 @@ Protector helps you block distracting websites and control which sites you can a
 
 ## Downloads
 
-**Protector v1.9.0 Beta 1 — public release pending.**
+**Protector v1.9.0 Beta 1 — available now as a public prerelease.**
 
-The installer will appear in [GitHub Releases](https://github.com/test2deploy/protector-downloads/releases) after distribution checks are complete. There is **no publicly available Windows installer in this repository yet**. Please avoid unofficial installer links.
+- **[Download Protector for Windows v1.9.0 Beta 1 (.exe)](https://github.com/test2deploy/protector-downloads/releases/download/v1.9.0-beta.1/Protector-Setup-1.9.0-beta.1.exe)**
+- [View public prerelease and release notes](https://github.com/test2deploy/protector-downloads/releases/tag/v1.9.0-beta.1)
+- [Download SHA-256 checksum file](https://github.com/test2deploy/protector-downloads/releases/download/v1.9.0-beta.1/Protector-Setup-1.9.0-beta.1.exe.sha256.txt)
+
+**Beta software:** This installer is unsigned and Windows SmartScreen may warn you. Download only from the official release linked above.
 
 ## Beta 1 features
 
@@ -23,9 +27,9 @@ Functional and installer-upgrade QA has passed on the tested Windows build. This
 
 ## Installer integrity
 
-Planned filename: `Protector-Setup-1.9.0-beta.1.exe`
+Installer filename: `Protector-Setup-1.9.0-beta.1.exe`
 
-Expected installer SHA-256 from the private draft-release record:
+Installer SHA-256, matching the published GitHub Release asset metadata:
 
 ```text
 be456cd9fb241dfc911ee0d58f553693573ee7a9e756bc62370403cb0bcd65eb
@@ -37,7 +41,7 @@ After downloading, verify the installer in PowerShell:
 Get-FileHash -Algorithm SHA256 ".\Protector-Setup-1.9.0-beta.1.exe"
 ```
 
-Compare all 64 characters with the digest above. **If it does not match, do not run the installer.** The actual public release asset must be checked before publication.
+Compare all 64 characters with the digest above. **If it does not match, do not run the installer.**
 
 ## Security and limitations
 
