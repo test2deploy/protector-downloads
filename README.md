@@ -7,11 +7,12 @@ Protector helps you block distracting websites and control which sites you can a
 
 ## Downloads
 
-**Protector v1.9.0 Beta 1 — available now as a public prerelease.**
+**Protector v1.9.0 Beta 1 — free public prerelease, available now.**
 
 - **[Download Protector for Windows v1.9.0 Beta 1 (.exe)](https://github.com/test2deploy/protector-downloads/releases/download/v1.9.0-beta.1/Protector-Setup-1.9.0-beta.1.exe)**
 - [View public prerelease and release notes](https://github.com/test2deploy/protector-downloads/releases/tag/v1.9.0-beta.1)
 - [Download SHA-256 checksum file](https://github.com/test2deploy/protector-downloads/releases/download/v1.9.0-beta.1/Protector-Setup-1.9.0-beta.1.exe.sha256.txt)
+- **[Watch the 1080p Windows beta walkthrough and view five screenshots](https://dean-design-software.netlify.app/protector.html)**
 
 **Beta software:** This installer is unsigned and Windows SmartScreen may warn you. Download only from the official release linked above.
 
@@ -23,7 +24,7 @@ Protector helps you block distracting websites and control which sites you can a
 - Classic, Navy, and F-35 themes
 - Updated UI and installer / upgrade improvements
 
-Functional and installer-upgrade QA has passed on the tested Windows build. This is still beta software.
+Functional and installer-upgrade QA has passed on the tested Windows build. The demo and screenshot gallery on the DD&S site show the application interface and available themes. This is still beta software; feedback is welcome.
 
 ## Installer integrity
 
